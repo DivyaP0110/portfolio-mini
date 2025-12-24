@@ -1,12 +1,12 @@
-Predictive Portfolio Management
-An AI-Driven Framework for Real-Time Investment Strategy
-Project Overview
+## Predictive Portfolio Management
+## An AI-Driven Framework for Real-Time Investment Strategy
+## Project Overview
 
 Financial markets are highly dynamic and volatile, making real-time investment decision-making a challenging task. Traditional portfolio management methods rely on manual analysis and historical data, which are slow, biased, and inefficient in rapidly changing market conditions.
 
 This project presents an AI-driven predictive portfolio management system that uses Machine Learning, Deep Learning, and Sentiment Analysis to generate real-time investment predictions and recommendations. The system minimizes human bias, improves prediction accuracy, and supports intelligent portfolio decision-making.
 
-Objectives
+## Objectives
 
 Predict future stock prices using AI models
 
@@ -18,7 +18,7 @@ Generate Buy / Hold / Sell recommendations
 
 Provide real-time portfolio performance insights
 
-Technologies Used
+## Technologies Used
 
 Programming Language: Python
 
@@ -30,7 +30,7 @@ Data Source: Real-time market data (API-based simulation)
 
 Framework: Streamlit (for UI – optional extension)
 
- System Modules
+## System Modules
 
 Market Data Fetching Module
 
@@ -44,7 +44,7 @@ Portfolio Evaluation Module
 
 Recommendation Engine
 
-System Architecture (Flow)
+## System Architecture (Flow)
 ```
 
 Market Data → Data Preprocessing → AI Prediction Model
@@ -57,7 +57,7 @@ Market Data → Data Preprocessing → AI Prediction Model
         ↓
  Portfolio Performance Output
 ```
-Features
+## Features
 
 Real-time stock price prediction
 
@@ -68,7 +68,7 @@ Bias-free AI-driven decisions
 Automated portfolio evaluation
 
 Scalable and modular design
-Sample Code (Python)
+## Sample Code (Python)
 ```
 import requests
 import random
@@ -142,7 +142,7 @@ if __name__ == "__main__":
     main()
 
 ```
-Sample Output:
+## Sample Output:
 
 Portfolio Report:
 Date: 2025-02-18 10:45:21
@@ -152,7 +152,7 @@ Predicted Price: 3460.73
 Market Sentiment: POSITIVE
 Risk Level: LOW
 Recommendation: BUY
-Results
+## Results
 
 Prediction Accuracy: ~90%
 
@@ -174,7 +174,7 @@ Mobile and cloud deployment
 
 Automated portfolio rebalancing
 
- Conclusion
+ ## Conclusion
 
 This project demonstrates how Artificial Intelligence can revolutionize traditional portfolio
 management by enabling real-time,
